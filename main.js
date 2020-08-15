@@ -31,4 +31,5 @@ function whoAmI() {
 //     whoAmI();
 //     // changeBG();
 //  }
+whoAmI();
 setInterval(whoAmI, 2000);
